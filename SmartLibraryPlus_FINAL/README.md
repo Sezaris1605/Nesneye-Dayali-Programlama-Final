@@ -1,0 +1,1 @@
+# SmartLibraryPlus\nHibernate ORM + SQLite tabanlı konsol uygulaması.
